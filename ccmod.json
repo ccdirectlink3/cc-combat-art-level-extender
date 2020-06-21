@@ -1,0 +1,7 @@
+{
+  "id": "party-combat-art-level-extender",
+  "title": "Party Combat Art Level Extender",
+  "prestart": "prestart.js",
+  "version": "4.0.0"
+}
+

@@ -1,0 +1,2 @@
+1. write a README, possibly with screenshots
+2. mention that this mod makes party members use level 3 combat arts
